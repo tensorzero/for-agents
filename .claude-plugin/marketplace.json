@@ -8,9 +8,8 @@
       "name": "tensorzero",
       "description": "TensorZero",
       "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/tensorzero/tensorzero.git",
-        "path": "for-agents/plugins/tensorzero"
+        "source": "github",
+        "repo": "tensorzero/for-agents"
       }
     }
   ]
