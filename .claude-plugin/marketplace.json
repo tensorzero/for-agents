@@ -10,7 +10,9 @@
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/tensorzero/tensorzero.git",
-        "path": "for-agents/plugins/tensorzero"
+        "path": "for-agents/plugins/tensorzero",
+        "ref": "gb/for-agents",
+        "sha": "51f537b34392faf60c0e450a80f81892ce42a42c"
       }
     }
   ]
