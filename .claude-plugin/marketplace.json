@@ -1,0 +1,17 @@
+{
+  "name": "tensorzero",
+  "owner": {
+    "name": "TensorZero"
+  },
+  "plugins": [
+    {
+      "name": "tensorzero",
+      "description": "TensorZero",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/tensorzero/tensorzero.git",
+        "path": "for-agents/plugins/tensorzero"
+      }
+    }
+  ]
+}
